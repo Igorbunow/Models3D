@@ -10,3 +10,5 @@ Microscope:
 https://www.pcbway.com/project/share/Microscope_fixator.html
 
 Youtube review: https://youtu.be/GyxqQv37Qf0
+
+MySku review: https://mysku.ru/blog/diy/88524.html
